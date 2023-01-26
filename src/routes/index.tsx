@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Dojo App</Title>
-      <h1>Hello Ben!</h1>
+      <h1>Hello Benji!</h1>
       <Counter />
       <p>
         Visit{" "}
